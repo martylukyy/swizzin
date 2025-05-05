@@ -265,7 +265,7 @@ function qbittorrent_version_info() {
             fi
             libtorrent_minimum_version=1.2.20
             stdcver="c++20"
-            qt_minimum_version=6.5
+            qt_minimum_version=6.9
             qbt_use_qt6=ON
             cryptography_type=openssl
             build_type=cmake
